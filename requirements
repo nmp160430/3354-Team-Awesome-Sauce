@@ -15,6 +15,14 @@ Functional Requirements
   2.1 When the player dies, play a death sound
   2.2 When a zombie spawns, a small sound (like a ding) should indicate that
   2.3 For guns, shooting should make a sound
+3. 3. Raycast teleportation
+  3.1 When the player wants to move, it can use the controller to teleport to the desired location
+  3.2 A line from the controller will show the player where it will land
+  3.3 There will be a limitation to the total distance the player can teleport in one go
+4. Raycast shooting
+  4.1 When the player wants to shoot, it can use the controller to shoot towards the desired location
+  4.2 A line from the controller will show the player where it will land
+
   
 
 
