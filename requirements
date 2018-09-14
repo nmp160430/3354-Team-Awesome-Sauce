@@ -22,6 +22,13 @@ Functional Requirements
 4. Raycast shooting
   4.1 When the player wants to shoot, it can use the controller to shoot towards the desired location
   4.2 A line from the controller will show the player where it will land
+5. Implement OpenVR functionality
+  5.1 Install and integrate OpenVR Plugin so the game works on VR headsets
+6. Zombies are the antagonist of the game
+  6.1 Zombies will spawn at decreasing intervals (increasing the difficulty of the game as the player progresses)
+  6.2 Zombies will have finite health
+  6.3 The player can decrease a zombie’s health with its weapon
+  6.4 When a zombie’s health hits 0, it dies
 
   
 
