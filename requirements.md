@@ -2,12 +2,12 @@ Requirements for
   Part 1 of Project, due 09/20
 
 
-Definitions, Acronyms, and Abbreviations
+**Definitions, Acronyms, and Abbreviations**
 
 
 
 
-Functional Requirements
+**Functional Requirements**
 1. Walls may be used to the player's advantage<br>
   1.1 The player should be able to build walls the zombies cannot pass through<br>
   1.2 Their will be some limitation on how often a player can build walls<br>
@@ -34,7 +34,7 @@ Functional Requirements
 8. The game must be able to run without bugs that crash the game<br>
   8.1 The experience cannot be destroyed by bugs<br>
   8.2 The code behind the game should not have any compiler errors<br>
-  
+  <br><br>
 
-Use Case Diagrams
+**Use Case Diagrams**
 ![usecasediagramp1](https://user-images.githubusercontent.com/38480615/45655648-f60a2e80-baa6-11e8-96dc-d87812edf646.png)
