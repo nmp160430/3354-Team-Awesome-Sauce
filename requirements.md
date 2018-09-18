@@ -3,12 +3,12 @@ Requirements for
 
 
 **Definitions, Acronyms, and Abbreviations**
-Zombie Battle Box: the current name of the game being developed
-  ZBB: acronym for Zombie Battle Box
-Raycast teleportation: a line visible to the player in the game from the controller will indicate where the player will be teleported
-Raycast shooting: a line visible to the player in the game from the controller will indicate where the shot will land
-Zombie spawn: the creation of a new enemy
-OpenVR functionality: The plugin used to make VR work in Unity
+Zombie Battle Box: the current name of the game being developed<br>
+  ZBB: acronym for Zombie Battle Box<br>
+Raycast teleportation: a line visible to the player in the game from the controller will indicate where the player will be teleported<br>
+Raycast shooting: a line visible to the player in the game from the controller will indicate where the shot will land<br>
+Zombie spawn: the creation of a new enemy<br>
+OpenVR functionality: The plugin used to make VR work in Unity<br>
 
 **Functional Requirements**
 1. Walls may be used to the player's advantage<br>
