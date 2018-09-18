@@ -2,7 +2,7 @@ Requirements for
   Part 1 of Project, due 09/20
 
 
-**Definitions, Acronyms, and Abbreviations**
+**Definitions, Acronyms, and Abbreviations**<br>
 Zombie Battle Box: the current name of the game being developed<br>
   ZBB: acronym for Zombie Battle Box<br>
 Raycast teleportation: a line visible to the player in the game from the controller will indicate where the player will be teleported<br>
