@@ -4,7 +4,7 @@ Requirements for
 
 **Definitions, Acronyms, and Abbreviations**<br>
 Zombie Battle Box: the current name of the game being developed<br>
-  ZBB: acronym for Zombie Battle Box<br>
+     ZBB: acronym for Zombie Battle Box<br>
 Raycast teleportation: a line visible to the player in the game from the controller will indicate where the player will be teleported<br>
 Raycast shooting: a line visible to the player in the game from the controller will indicate where the shot will land<br>
 Zombie spawn: the creation of a new enemy<br>
