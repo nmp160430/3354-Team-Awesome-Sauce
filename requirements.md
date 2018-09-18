@@ -3,9 +3,12 @@ Requirements for
 
 
 **Definitions, Acronyms, and Abbreviations**
-
-
-
+Zombie Battle Box: the current name of the game being developed
+  ZBB: acronym for Zombie Battle Box
+Raycast teleportation: a line visible to the player in the game from the controller will indicate where the player will be teleported
+Raycast shooting: a line visible to the player in the game from the controller will indicate where the shot will land
+Zombie spawn: the creation of a new enemy
+OpenVR functionality: The plugin used to make VR work in Unity
 
 **Functional Requirements**
 1. Walls may be used to the player's advantage<br>
@@ -36,5 +39,5 @@ Requirements for
   8.2 The code behind the game should not have any compiler errors<br>
   <br><br>
 
-**Use Case Diagrams**
+**Use Case Diagram**
 ![usecasediagramp1](https://user-images.githubusercontent.com/38480615/45655648-f60a2e80-baa6-11e8-96dc-d87812edf646.png)
