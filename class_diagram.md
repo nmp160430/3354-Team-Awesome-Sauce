@@ -1,6 +1,8 @@
 <h1>Part 1. Class DIagram</h1>
 <br>
 
+Current stage of classes -> please edit  as you see fit - Julian
+
 
 <h3>1.1) List of Classes</h3>
 Player <br>
