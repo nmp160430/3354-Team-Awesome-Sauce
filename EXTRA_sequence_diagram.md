@@ -1,4 +1,4 @@
-<h1>Part 2. Sequence Diagram #1</h1>
+<h1>EXTRA Sequence Diagram</h1>
 <br><br>
 
 
