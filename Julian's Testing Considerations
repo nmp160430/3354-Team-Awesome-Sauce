@@ -1,0 +1,14 @@
+Test Scenarios for Zombie Battle Box
+_____________________________________
+
+1: When you shoot a zombie object, is it destroyed
+2: When player shoots a wall, it doesnt break
+3: When player shoots floor, it doesnt disappear
+4: When player teleports ontop of a wall space, they will land there
+5: Shooting a zombie in the arm/leg will still result in damage and deletion
+
+6: When player tries to place a wall ontop of another, it wont stack vertically
+7: When player places a wall where a zombie stands, it destroys both the wall and the zombie
+8: When a zombie runs into the player, the player disappears but game is still active
+9: When player/zombie shoots/attacks a tree, nothing will occur
+10: When player teleports onto wall, teleport fails
